@@ -1,6 +1,6 @@
 from copy import copy
 str = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
-slovo = list('ОБЛОКО')
+slovo = list('ОБЛАКО')
 # for letter in str:
 #     alph = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
 #     slovo[2]=letter
